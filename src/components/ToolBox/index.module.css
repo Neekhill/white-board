@@ -16,7 +16,7 @@
       @apply flex justify-between mt-2;
 
       .colorBox {
-        @apply h-5 w-5 mr-1 rounded-sm cursor-pointer;
+        @apply h-6 w-6 mr-1 rounded-md cursor-pointer;
 
         &:hover,
         &.active {
